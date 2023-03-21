@@ -13,7 +13,7 @@
 - 💽 PostgreSQL
 
 ## 🎉 About 🎉
-- 😼 I'm Snekussaurier. 22 years old  
+- 😼 I'm Snekussaurier. 23 years old  
 - 📍 Currently living in Germany  
 - ☕ Loves drinking coffee  
 
