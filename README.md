@@ -1,21 +1,37 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/68194327/168023272-fc6c2129-739d-464a-854e-0763181c7f12.png" alt="Header" width="550"/>
+  <img src="https://github.com/user-attachments/assets/3cc86e56-aafa-494e-baf0-6daa9f5887bf" width=650px></img>
 </p>
 <h3 align="center">
   Hey. Nice to see you! 👋
 </h3>
 </br>
 
-## ⚡ Skills ⚡
-- 👨‍💻 C#, Java, C++, JavaScript
-- ⚙️ React, .NET
-- 👁️ CSS, XAML
-- 💽 PostgreSQL
+### 🚀 About Me 🚀
+Hello! I'm Snekussaurier, a passionate developer and tech enthusiast from Germany. I’m 24 years old, always striving to learn new things, and fueled by a love for coffee ☕. When I'm not coding, you can probably find me working on fun side projects or diving into the latest tech trends.
 
-## 🎉 About 🎉
-- 😼 I'm Snekussaurier. 23 years old  
-- 📍 Currently living in Germany  
-- ☕ Loves drinking coffee  
+<hr>
 
-## 🔔 Contact 🔔
-- Sneak#0661 on Discord
+### ⚡ Skills & Technologies ⚡
+- **Languages:** C#, Python, Go, Rust, Typescript  
+- **Web Development:** SvelteKit, .NET, Gin  
+- **Design & Styling:** CSS, Tailwind  
+- **Databases:** PostgreSQL, SQLite  
+
+I’m always eager to explore and experiment with new technologies to build elegant and scalable solutions.
+
+<hr>
+
+### 🌱 Currently Learning 🌱
+- Exploring new technologies
+- Improving my knowledge on Low-Level Languages
+- Deep diving into DevOps practices and automation
+
+<hr>
+
+### 📫 How to Reach Me 📫
+- **Discord:** @Snekussaurier
+Feel free to reach out if you'd like to collaborate or chat about tech! 🚀
+
+
+
+
